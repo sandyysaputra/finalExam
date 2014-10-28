@@ -1,0 +1,10 @@
+~> http://examples.javacodegeeks.com/java-basics/java-map-example/
+~> http://www.mkyong.com/java/how-to-count-duplicated-items-in-java-list/
+~> http://www.javatpoint.com/hibernate-table-per-hierarchy-using-annotation-tutorial-example
+~> http://viralpatel.net/blogs/hibernate-inheritence-table-per-hierarchy-mapping/
+~> http://stackoverflow.com/questions/22964601/how-to-use-jsp-on-servlet-dopost
+~> http://software.endy.muhardin.com/java/dasar-dasar-aplikasi-web-java/
+~> http://gedelumbung.com/git-tutorial-cara-installkonfigurasi-git-dan-upload-project-aplikasi-ke-github/
+~> http://javaknowledge.info/jsp-servlet-jstl-and-mysql-simple-crud-application/
+~> http://javaknowledge.info/simple-crud-using-jsf2hibernate-integration-and-mysql/
+~> http://uaihebert.com/full-web-application-with-tomcat-jsf-primefaces-jpa-hibernate/
